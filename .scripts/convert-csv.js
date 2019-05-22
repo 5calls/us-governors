@@ -102,7 +102,7 @@ if (fs.existsSync(core)) {
     })
     .on('data', function(data){
 
-      var cdnHeadshotPath = (data.vacant === 'yes') ? '' : 'https://cdn.civil.services/us-governors/headshots/512x512/' +
+      var cdnHeadshotPath = (data.vacant === 'yes') ? '' : 'https://repimages.5calls.org/us-governors/512x512/' +
         slug(data.first_name + ' ' + data.last_name, { lower: true, replacement: '-' }) + '.jpg';
 
       var parsedAddress = parser.parseLocation(data.address);
