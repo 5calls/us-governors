@@ -226,6 +226,51 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/gavin-newsom.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>Colorado</state_name>
+        <state_name_slug>colorado</state_name_slug>
+        <state_code>CO</state_code>
+        <state_code_slug>co</state_code_slug>
+        <votesmart>106220</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Jared Polis</name>
+        <name_slug>jared-polis</name_slug>
+        <first_name>Jared</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Polis</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JA-rid PAW-lis</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>jewish</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1975-05-12</date_of_birth>
+        <entered_office>2019-01-08</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Jared Schutz Polis is an American politician, entrepreneur, and philanthropist who is the 43rd Governor of Colorado. From 2009 to 2019, he was the United States Representative for Colorado's 2nd congressional district. Polis was elected Governor of Colorado in 2018, making him the first openly gay man elected governor in the United States, the second openly LGBT person elected governor in the United States (after Governor Kate Brown of Oregon), and the first Jewish person elected governor of Colorado.</biography>
+        <phone>303-866-2885</phone>
+        <fax>303-866-2003</fax>
+        <latitude>39.73921</latitude>
+        <longitude>-104.98497</longitude>
+        <address_complete>136 State Capitol, Denver CO, 80203-1792</address_complete>
+        <address_number>136</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>State Capitol</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Denver</address_city>
+        <address_state>CO</address_state>
+        <address_zipcode>80203</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.colorado.gov/governor/</website>
+        <contact_page>https://www.colorado.gov/governor/contact</contact_page>
+        <facebook_url>https://www.facebook.com/PolisForColorado/</facebook_url>
+        <twitter_handle>jaredpolis</twitter_handle>
+        <twitter_url>https://twitter.com/jaredpolis</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/jared-polis.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>Connecticut</state_name>
         <state_name_slug>connecticut</state_name_slug>
         <state_code>CT</state_code>
@@ -316,94 +361,49 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/john-carney.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Colorado</state_name>
-        <state_name_slug>colorado</state_name_slug>
-        <state_code>CO</state_code>
-        <state_code_slug>co</state_code_slug>
-        <votesmart>106220</votesmart>
+        <state_name>Georgia</state_name>
+        <state_name_slug>georgia</state_name_slug>
+        <state_code>GA</state_code>
+        <state_code_slug>ga</state_code_slug>
+        <votesmart>31876</votesmart>
         <title>governor</title>
-        <party>democrat</party>
-        <name>Jared Polis</name>
-        <name_slug>jared-polis</name_slug>
-        <first_name>Jared</first_name>
+        <party>republican</party>
+        <name>Brian Kemp</name>
+        <name_slug>brian-kemp</name_slug>
+        <first_name>Brian</first_name>
         <middle_name>null</middle_name>
-        <last_name>Polis</last_name>
+        <last_name>Kemp</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>JA-rid PAW-lis</pronunciation>
+        <pronunciation>BRI-an KEMP</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>jewish</religion>
+        <religion>episcopalian</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1975-05-12</date_of_birth>
+        <date_of_birth>1963-11-02</date_of_birth>
         <entered_office>2019-01-08</entered_office>
         <term_end>2022-12-31</term_end>
-        <biography>Jared Schutz Polis is an American politician, entrepreneur, and philanthropist who is the 43rd Governor of Colorado. From 2009 to 2019, he was the United States Representative for Colorado's 2nd congressional district. Polis was elected Governor of Colorado in 2018, making him the first openly gay man elected governor in the United States, the second openly LGBT person elected governor in the United States (after Governor Kate Brown of Oregon), and the first Jewish person elected governor of Colorado.</biography>
-        <phone>303-866-2471</phone>
-        <fax>303-866-2003</fax>
-        <latitude>39.73921</latitude>
-        <longitude>-104.98497</longitude>
-        <address_complete>136 State Capitol, Denver CO, 80203-1792</address_complete>
-        <address_number>136</address_number>
+        <biography>Brian Kemp is an American businessman and politician who is the 83rd and incumbent governor of the U.S. state of Georgia, in office since 2019. A member of the Republican Party, he previously was the Secretary of State of Georgia and a member of the Georgia State Senate.</biography>
+        <phone>404-656-1776</phone>
+        <fax>404-657-7332</fax>
+        <latitude>33.74902</latitude>
+        <longitude>-84.38796</longitude>
+        <address_complete>203 State Capitol, Atlanta, GA 30334</address_complete>
+        <address_number>203</address_number>
         <address_prefix>null</address_prefix>
         <address_street>State Capitol</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Denver</address_city>
-        <address_state>CO</address_state>
-        <address_zipcode>80203</address_zipcode>
+        <address_city>Atlanta</address_city>
+        <address_state>GA</address_state>
+        <address_zipcode>30334</address_zipcode>
         <address_type>null</address_type>
-        <website>http://www.colorado.gov/governor/</website>
-        <contact_page>https://www.colorado.gov/governor/contact</contact_page>
-        <facebook_url>https://www.facebook.com/PolisForColorado/</facebook_url>
-        <twitter_handle>jaredpolis</twitter_handle>
-        <twitter_url>https://twitter.com/jaredpolis</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/jared-polis.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Hawaii</state_name>
-        <state_name_slug>hawaii</state_name_slug>
-        <state_code>HI</state_code>
-        <state_code_slug>hi</state_code_slug>
-        <votesmart>3406</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>David Ige</name>
-        <name_slug>david-ige</name_slug>
-        <first_name>David</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Ige</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>DAY-vid EE-gay</pronunciation>
-        <gender>male</gender>
-        <ethnicity>pacific-islander</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1957-01-15</date_of_birth>
-        <entered_office>2014-01-12</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>David Yutaka Ige (born January 15, 1957) is an American politician who serves as the eighth and current Governor of Hawaii, in office since 2014. A Democrat, he previously served in the Hawaii State Senate, representing the 16th district, from 1995 to 2014. In the 2014 Hawaii gubernatorial election, he won the Democratic primary by defeating incumbent Governor Neil Abercrombie with 66% of the vote.</biography>
-        <phone>808-586-0034</phone>
-        <fax>808-586-0006</fax>
-        <latitude>21.307764</latitude>
-        <longitude>-157.8594961</longitude>
-        <address_complete>415 South Beretania Street, Honolulu, HI 96813</address_complete>
-        <address_number>415</address_number>
-        <address_prefix>South</address_prefix>
-        <address_street>Beretania</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Honolulu</address_city>
-        <address_state>HI</address_state>
-        <address_zipcode>96813</address_zipcode>
-        <address_type>Street</address_type>
-        <website>http://governor.hawaii.gov</website>
-        <contact_page>https://governor.hawaii.gov/contact-us/contact-the-governor/</contact_page>
-        <facebook_url>https://www.facebook.com/GovernorDavidIge</facebook_url>
-        <twitter_handle>GovHawaii</twitter_handle>
-        <twitter_url>https://twitter.com/GovHawaii</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/david-ige.jpg</photo_url>
+        <website>http://gov.georgia.gov/</website>
+        <contact_page>https://gov.georgia.gov/webform/contact-governor</contact_page>
+        <facebook_url>https://www.facebook.com/GovKemp/</facebook_url>
+        <twitter_handle>govkemp</twitter_handle>
+        <twitter_url>https://twitter.com/govkemp</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/brian-kemp.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Florida</state_name>
@@ -451,6 +451,51 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/ronald-desantis.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>Hawaii</state_name>
+        <state_name_slug>hawaii</state_name_slug>
+        <state_code>HI</state_code>
+        <state_code_slug>hi</state_code_slug>
+        <votesmart>3406</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>David Ige</name>
+        <name_slug>david-ige</name_slug>
+        <first_name>David</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Ige</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>DAY-vid EE-gay</pronunciation>
+        <gender>male</gender>
+        <ethnicity>pacific-islander</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1957-01-15</date_of_birth>
+        <entered_office>2014-01-12</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>David Yutaka Ige (born January 15, 1957) is an American politician who serves as the eighth and current Governor of Hawaii, in office since 2014. A Democrat, he previously served in the Hawaii State Senate, representing the 16th district, from 1995 to 2014. In the 2014 Hawaii gubernatorial election, he won the Democratic primary by defeating incumbent Governor Neil Abercrombie with 66% of the vote.</biography>
+        <phone>808-586-0034</phone>
+        <fax>808-586-0006</fax>
+        <latitude>21.307764</latitude>
+        <longitude>-157.8594961</longitude>
+        <address_complete>415 South Beretania Street, Honolulu, HI 96813</address_complete>
+        <address_number>415</address_number>
+        <address_prefix>South</address_prefix>
+        <address_street>Beretania</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Honolulu</address_city>
+        <address_state>HI</address_state>
+        <address_zipcode>96813</address_zipcode>
+        <address_type>Street</address_type>
+        <website>http://governor.hawaii.gov</website>
+        <contact_page>https://governor.hawaii.gov/contact-us/contact-the-governor/</contact_page>
+        <facebook_url>https://www.facebook.com/GovernorDavidIge</facebook_url>
+        <twitter_handle>GovHawaii</twitter_handle>
+        <twitter_url>https://twitter.com/GovHawaii</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/david-ige.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>Idaho</state_name>
         <state_name_slug>idaho</state_name_slug>
         <state_code>ID</state_code>
@@ -496,229 +541,49 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/brad-little.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Georgia</state_name>
-        <state_name_slug>georgia</state_name_slug>
-        <state_code>GA</state_code>
-        <state_code_slug>ga</state_code_slug>
-        <votesmart>31876</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Brian Kemp</name>
-        <name_slug>brian-kemp</name_slug>
-        <first_name>Brian</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Kemp</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>BRI-an KEMP</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>episcopalian</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1963-11-02</date_of_birth>
-        <entered_office>2019-01-08</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Brian Kemp is an American businessman and politician who is the 83rd and incumbent governor of the U.S. state of Georgia, in office since 2019. A member of the Republican Party, he previously was the Secretary of State of Georgia and a member of the Georgia State Senate.</biography>
-        <phone>404-656-1776</phone>
-        <fax>404-657-7332</fax>
-        <latitude>33.74902</latitude>
-        <longitude>-84.38796</longitude>
-        <address_complete>203 State Capitol, Atlanta, GA 30334</address_complete>
-        <address_number>203</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>State Capitol</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Atlanta</address_city>
-        <address_state>GA</address_state>
-        <address_zipcode>30334</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://gov.georgia.gov/</website>
-        <contact_page>https://gov.georgia.gov/webform/contact-governor</contact_page>
-        <facebook_url>https://www.facebook.com/GovKemp/</facebook_url>
-        <twitter_handle>govkemp</twitter_handle>
-        <twitter_url>https://twitter.com/govkemp</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/brian-kemp.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Iowa</state_name>
-        <state_name_slug>iowa</state_name_slug>
-        <state_code>IA</state_code>
-        <state_code_slug>ia</state_code_slug>
-        <votesmart>103324</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Kimberly Reynolds</name>
-        <name_slug>kimberly-reynolds</name_slug>
-        <first_name>Kimberly</first_name>
-        <middle_name>Kay</middle_name>
-        <last_name>Reynolds</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Kim</goes_by>
-        <pronunciation>KIM RE-neldz</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1959-08-04</date_of_birth>
-        <entered_office>2017-05-24</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Kimberly Kay Reynold is an American politician serving as the 43rd and current Governor of Iowa since 2017. A Republican, she previously served as the Lieutenant Governor of Iowa from 2011 to 2017 and assumed the governorship when incumbent Governor Terry Branstad became the United States Ambassador to China. Reynolds is the first female Governor of Iowa.</biography>
-        <phone>515-281-5211</phone>
-        <fax>515-281-6611</fax>
-        <latitude>41.5912077</latitude>
-        <longitude>-93.6059486</longitude>
-        <address_complete>1007 East Grand Ave., Des Moines, IA 50319</address_complete>
-        <address_number>1007</address_number>
-        <address_prefix>East</address_prefix>
-        <address_street>Grand</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Des Moines</address_city>
-        <address_state>IA</address_state>
-        <address_zipcode>50319</address_zipcode>
-        <address_type>Ave</address_type>
-        <website>https://governor.iowa.gov</website>
-        <contact_page>https://governor.iowa.gov/contact</contact_page>
-        <facebook_url>https://www.facebook.com/IAGovernor</facebook_url>
-        <twitter_handle>kimreynoldsia</twitter_handle>
-        <twitter_url>https://twitter.com/kimreynoldsia</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/kimberly-reynolds.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Kansas</state_name>
-        <state_name_slug>kansas</state_name_slug>
-        <state_code>KS</state_code>
-        <state_code_slug>ks</state_code_slug>
-        <votesmart>34496</votesmart>
+        <state_name>Illinois</state_name>
+        <state_name_slug>illinois</state_name_slug>
+        <state_code>IL</state_code>
+        <state_code_slug>il</state_code_slug>
+        <votesmart>18341</votesmart>
         <title>governor</title>
         <party>democrat</party>
-        <name>Laura Kelly</name>
-        <name_slug>laura-kelly</name_slug>
-        <first_name>Laura</first_name>
+        <name>J.B. Pritzker</name>
+        <name_slug>jb-pritzker</name_slug>
+        <first_name>J.B.</first_name>
         <middle_name>null</middle_name>
-        <last_name>Kelly</last_name>
+        <last_name>Pritzker</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>LA-ur-ra KE-lee</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1950-01-24</date_of_birth>
-        <entered_office>2018-01-31</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Laura Kelly is the Democratic Governor of Kansas. Kelly was elected to the office on November 6, 2018. Kelly is a former Democratic member of the Kansas State Senate, representing District 18 from 2005 to 2018.</biography>
-        <phone>785-296-3232</phone>
-        <fax>785-296-7973</fax>
-        <latitude>39.046497</latitude>
-        <longitude>-95.67936</longitude>
-        <address_complete>300 SW 10th Avenue, Suite 212S, Topeka, KS 66612-1590</address_complete>
-        <address_number>300</address_number>
-        <address_prefix>SW</address_prefix>
-        <address_street>10th</address_street>
-        <address_sec_unit_type>Suite</address_sec_unit_type>
-        <address_sec_unit_num>212S</address_sec_unit_num>
-        <address_city>Topeka</address_city>
-        <address_state>KS</address_state>
-        <address_zipcode>66612</address_zipcode>
-        <address_type>Avenue</address_type>
-        <website>https://governor.kansas.gov</website>
-        <contact_page>https://governor.kansas.gov/contact/contact-the-governor/</contact_page>
-        <facebook_url>https://www.facebook.com/LauraKellyKS/</facebook_url>
-        <twitter_handle>senatorkelly</twitter_handle>
-        <twitter_url>https://twitter.com/senatorkelly</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/laura-kelly.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Louisiana</state_name>
-        <state_name_slug>louisiana</state_name_slug>
-        <state_code>LA</state_code>
-        <state_code_slug>la</state_code_slug>
-        <votesmart>72012</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>John Edwards</name>
-        <name_slug>john-edwards</name_slug>
-        <first_name>John</first_name>
-        <middle_name>Bel</middle_name>
-        <last_name>Edwards</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JOAN ED-werdz</pronunciation>
+        <pronunciation>J B PRITS-ker</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1966-09-16</date_of_birth>
-        <entered_office>2016-01-11</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>John Bel Edwards (born September 16, 1966) is an American politician and lawyer who is the 56th and current Governor of Louisiana, in office since January 11, 2016. He was previously the Minority Leader of the Louisiana House of Representatives and represented the 72nd District for two terms. He left the state legislature to run for governor in 2015.</biography>
-        <phone>623-773-7328</phone>
-        <fax>225-342-7099</fax>
-        <latitude>33.5766177</latitude>
-        <longitude>-112.242531</longitude>
-        <address_complete>8401 West Monroe Street, Peoria, AZ 85345</address_complete>
-        <address_number>8401</address_number>
-        <address_prefix>West</address_prefix>
-        <address_street>Monroe</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Peoria</address_city>
-        <address_state>AZ</address_state>
-        <address_zipcode>85345</address_zipcode>
-        <address_type>Street</address_type>
-        <website>http://gov.louisiana.gov/</website>
-        <contact_page>http://gov.louisiana.gov/page/contact</contact_page>
-        <facebook_url>https://www.facebook.com/LouisianaGov</facebook_url>
-        <twitter_handle>louisianagov</twitter_handle>
-        <twitter_url>https://twitter.com/louisianagov</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/john-edwards.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Maine</state_name>
-        <state_name_slug>maine</state_name_slug>
-        <state_code>ME</state_code>
-        <state_code_slug>me</state_code_slug>
-        <votesmart>36856</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Janet Mills</name>
-        <name_slug>janet-mills</name_slug>
-        <first_name>Janet</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Mills</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JA-net MILZ</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1947-12-30</date_of_birth>
+        <date_of_birth>1965-01-19</date_of_birth>
         <entered_office>2019-01-01</entered_office>
         <term_end>2022-12-31</term_end>
-        <biography>Janet T. Mills is the Democratic Governor of Maine. Mills was elected to the office on November 6, 2018. Mills served as Maine attorney general from 2009 to 2010 and again assumed office in 2012.</biography>
-        <phone>207-287-3531</phone>
-        <fax>207-287-1034</fax>
-        <latitude>44.3069799</latitude>
-        <longitude>-69.784334</longitude>
-        <address_complete>1 State House Station, Augusta, ME 04333</address_complete>
-        <address_number>1</address_number>
+        <biography>J.B. Pritzker is the Democratic Governor of Illinois. Pritzker was elected to the office on November 6, 2018.</biography>
+        <phone>217-782-6831</phone>
+        <fax>217-524-4049</fax>
+        <latitude>39.801149</latitude>
+        <longitude>-89.648686</longitude>
+        <address_complete>State Capitol, Springfield, IL 62706</address_complete>
+        <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>State House</address_street>
+        <address_street>State</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Augusta</address_city>
-        <address_state>ME</address_state>
-        <address_zipcode>04333</address_zipcode>
-        <address_type>Station</address_type>
-        <website>https://www.maine.gov/governor/</website>
-        <contact_page>https://www.maine.gov/governor/mills/contact</contact_page>
-        <facebook_url>https://www.facebook.com/millsforgovernor/</facebook_url>
-        <twitter_handle>JanetMillsforME</twitter_handle>
-        <twitter_url>https://twitter.com/JanetMillsforME</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/janet-mills.jpg</photo_url>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.illinois.gov/gov/</website>
+        <contact_page>https://www2.illinois.gov/gov/contactus/Pages/default.aspx</contact_page>
+        <facebook_url>https://www.facebook.com/jbpritzker</facebook_url>
+        <twitter_handle>jbpritzker</twitter_handle>
+        <twitter_url>https://twitter.com/jbpritzker</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/jb-pritzker.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Indiana</state_name>
@@ -766,49 +631,184 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/eric-holcomb.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Massachusetts</state_name>
-        <state_name_slug>massachusetts</state_name_slug>
-        <state_code>MA</state_code>
-        <state_code_slug>ma</state_code_slug>
-        <votesmart>124824</votesmart>
+        <state_name>Kansas</state_name>
+        <state_name_slug>kansas</state_name_slug>
+        <state_code>KS</state_code>
+        <state_code_slug>ks</state_code_slug>
+        <votesmart>34496</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Laura Kelly</name>
+        <name_slug>laura-kelly</name_slug>
+        <first_name>Laura</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Kelly</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>LA-ur-ra KE-lee</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1950-01-24</date_of_birth>
+        <entered_office>2018-01-31</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Laura Kelly is the Democratic Governor of Kansas. Kelly was elected to the office on November 6, 2018. Kelly is a former Democratic member of the Kansas State Senate, representing District 18 from 2005 to 2018.</biography>
+        <phone>785-296-3232</phone>
+        <fax>785-296-7973</fax>
+        <latitude>39.046497</latitude>
+        <longitude>-95.67936</longitude>
+        <address_complete>300 SW 10th Avenue, Suite 212S, Topeka, KS 66612-1590</address_complete>
+        <address_number>300</address_number>
+        <address_prefix>SW</address_prefix>
+        <address_street>10th</address_street>
+        <address_sec_unit_type>Suite</address_sec_unit_type>
+        <address_sec_unit_num>212S</address_sec_unit_num>
+        <address_city>Topeka</address_city>
+        <address_state>KS</address_state>
+        <address_zipcode>66612</address_zipcode>
+        <address_type>Avenue</address_type>
+        <website>https://governor.kansas.gov</website>
+        <contact_page>https://governor.kansas.gov/contact/contact-the-governor/</contact_page>
+        <facebook_url>https://www.facebook.com/LauraKellyKS/</facebook_url>
+        <twitter_handle>senatorkelly</twitter_handle>
+        <twitter_url>https://twitter.com/senatorkelly</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/laura-kelly.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Iowa</state_name>
+        <state_name_slug>iowa</state_name_slug>
+        <state_code>IA</state_code>
+        <state_code_slug>ia</state_code_slug>
+        <votesmart>103324</votesmart>
         <title>governor</title>
         <party>republican</party>
-        <name>Charles Baker</name>
-        <name_slug>charles-baker</name_slug>
-        <first_name>Charles</first_name>
-        <middle_name>Duane</middle_name>
-        <last_name>Baker</last_name>
-        <name_suffix>Jr.</name_suffix>
-        <goes_by>Charlie</goes_by>
-        <pronunciation>CHARR-lee BAY-ker</pronunciation>
-        <gender>male</gender>
+        <name>Kimberly Reynolds</name>
+        <name_slug>kimberly-reynolds</name_slug>
+        <first_name>Kimberly</first_name>
+        <middle_name>Kay</middle_name>
+        <last_name>Reynolds</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Kim</goes_by>
+        <pronunciation>KIM RE-neldz</pronunciation>
+        <gender>female</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>protestant</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1956-11-13</date_of_birth>
-        <entered_office>2015-01-08</entered_office>
+        <date_of_birth>1959-08-04</date_of_birth>
+        <entered_office>2017-05-24</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>Charles Duane "Charlie" Baker Jr. (born November 13, 1956), is an American businessman and the 72nd and current Governor of Massachusetts, having been sworn into office on January 8, 2015. He was a cabinet official under two Massachusetts governors, spent ten years as CEO of Harvard Pilgrim Health Care and was also the Republican nominee for governor of Massachusetts in an unsuccessful 2010 bid.</biography>
-        <phone>617-725-4005</phone>
-        <fax>617-727-9725</fax>
-        <latitude>42.3587723</latitude>
-        <longitude>-71.0660006</longitude>
-        <address_complete>Massachusetts State House, Office of the Governor, Room 280 Boston, MA 02133</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Massachusetts</address_street>
+        <biography>Kimberly Kay Reynold is an American politician serving as the 43rd and current Governor of Iowa since 2017. A Republican, she previously served as the Lieutenant Governor of Iowa from 2011 to 2017 and assumed the governorship when incumbent Governor Terry Branstad became the United States Ambassador to China. Reynolds is the first female Governor of Iowa.</biography>
+        <phone>515-281-5211</phone>
+        <fax>515-281-6611</fax>
+        <latitude>41.5912077</latitude>
+        <longitude>-93.6059486</longitude>
+        <address_complete>1007 East Grand Ave., Des Moines, IA 50319</address_complete>
+        <address_number>1007</address_number>
+        <address_prefix>East</address_prefix>
+        <address_street>Grand</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.mass.gov/governor/</website>
-        <contact_page>http://www.mass.gov/governor/constituent-services/contact-governor-office/</contact_page>
-        <facebook_url>https://www.facebook.com/CharlieBakerMA</facebook_url>
-        <twitter_handle>massgovernor</twitter_handle>
-        <twitter_url>https://twitter.com/massgovernor</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/charles-baker.jpg</photo_url>
+        <address_city>Des Moines</address_city>
+        <address_state>IA</address_state>
+        <address_zipcode>50319</address_zipcode>
+        <address_type>Ave</address_type>
+        <website>https://governor.iowa.gov</website>
+        <contact_page>https://governor.iowa.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/IAGovernor</facebook_url>
+        <twitter_handle>kimreynoldsia</twitter_handle>
+        <twitter_url>https://twitter.com/kimreynoldsia</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/kimberly-reynolds.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Kentucky</state_name>
+        <state_name_slug>kentucky</state_name_slug>
+        <state_code>KY</state_code>
+        <state_code_slug>ky</state_code_slug>
+        <votesmart>146094</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Matthew Bevin</name>
+        <name_slug>matthew-bevin</name_slug>
+        <first_name>Matthew</first_name>
+        <middle_name>Griswold</middle_name>
+        <last_name>Bevin</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Matt</goes_by>
+        <pronunciation>MAT BE-vin</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>christian</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1967-01-09</date_of_birth>
+        <entered_office>2015-12-08</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Matthew Griswold "Matt" Bevin (born January 9, 1967) is an American businessman and politician who currently serves as the 62nd Governor of Kentucky. He is the third Republican elected Governor of Kentucky since World War II, after Ernie Fletcher (2003–2007) and Louie B. Nunn (1967–1971).</biography>
+        <phone>502-564-2611</phone>
+        <fax>502-564-2517</fax>
+        <latitude>38.1867792</latitude>
+        <longitude>-84.877415</longitude>
+        <address_complete>700 Capitol Avenue, Suite 100, Frankfort, KY 40601</address_complete>
+        <address_number>700</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Capitol</address_street>
+        <address_sec_unit_type>Suite</address_sec_unit_type>
+        <address_sec_unit_num>100</address_sec_unit_num>
+        <address_city>Frankfort</address_city>
+        <address_state>KY</address_state>
+        <address_zipcode>40601</address_zipcode>
+        <address_type>Avenue</address_type>
+        <website>http://governor.ky.gov</website>
+        <contact_page>http://governor.ky.gov/pages/contact.aspx</contact_page>
+        <facebook_url>https://www.facebook.com/GovMattBevin</facebook_url>
+        <twitter_handle>GovMattBevin</twitter_handle>
+        <twitter_url>https://twitter.com/GovMattBevin</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/matthew-bevin.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Louisiana</state_name>
+        <state_name_slug>louisiana</state_name_slug>
+        <state_code>LA</state_code>
+        <state_code_slug>la</state_code_slug>
+        <votesmart>72012</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>John Edwards</name>
+        <name_slug>john-edwards</name_slug>
+        <first_name>John</first_name>
+        <middle_name>Bel</middle_name>
+        <last_name>Edwards</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JOAN ED-werdz</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1966-09-16</date_of_birth>
+        <entered_office>2016-01-11</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>John Bel Edwards (born September 16, 1966) is an American politician and lawyer who is the 56th and current Governor of Louisiana, in office since January 11, 2016. He was previously the Minority Leader of the Louisiana House of Representatives and represented the 72nd District for two terms. He left the state legislature to run for governor in 2015.</biography>
+        <phone>225-342-7015</phone>
+        <fax>225-342-7099</fax>
+        <latitude>33.5766177</latitude>
+        <longitude>-112.242531</longitude>
+        <address_complete>8401 West Monroe Street, Peoria, AZ 85345</address_complete>
+        <address_number>8401</address_number>
+        <address_prefix>West</address_prefix>
+        <address_street>Monroe</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Peoria</address_city>
+        <address_state>AZ</address_state>
+        <address_zipcode>85345</address_zipcode>
+        <address_type>Street</address_type>
+        <website>http://gov.louisiana.gov/</website>
+        <contact_page>http://gov.louisiana.gov/page/contact</contact_page>
+        <facebook_url>https://www.facebook.com/LouisianaGov</facebook_url>
+        <twitter_handle>louisianagov</twitter_handle>
+        <twitter_url>https://twitter.com/louisianagov</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/john-edwards.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Michigan</state_name>
@@ -856,49 +856,49 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/gretchen-whitmer.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Kentucky</state_name>
-        <state_name_slug>kentucky</state_name_slug>
-        <state_code>KY</state_code>
-        <state_code_slug>ky</state_code_slug>
-        <votesmart>146094</votesmart>
+        <state_name>Minnesota</state_name>
+        <state_name_slug>minnesota</state_name_slug>
+        <state_code>MN</state_code>
+        <state_code_slug>mn</state_code_slug>
+        <votesmart>65443</votesmart>
         <title>governor</title>
-        <party>republican</party>
-        <name>Matthew Bevin</name>
-        <name_slug>matthew-bevin</name_slug>
-        <first_name>Matthew</first_name>
-        <middle_name>Griswold</middle_name>
-        <last_name>Bevin</last_name>
+        <party>democrat</party>
+        <name>Tim Walz</name>
+        <name_slug>tim-walz</name_slug>
+        <first_name>Tim</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Walz</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>Matt</goes_by>
-        <pronunciation>MAT BE-vin</pronunciation>
+        <goes_by>null</goes_by>
+        <pronunciation>TIM WALZ</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>christian</religion>
+        <religion>lutheran</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1967-01-09</date_of_birth>
-        <entered_office>2015-12-08</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Matthew Griswold "Matt" Bevin (born January 9, 1967) is an American businessman and politician who currently serves as the 62nd Governor of Kentucky. He is the third Republican elected Governor of Kentucky since World War II, after Ernie Fletcher (2003–2007) and Louie B. Nunn (1967–1971).</biography>
-        <phone>502-564-2611</phone>
-        <fax>502-564-2517</fax>
-        <latitude>38.1867792</latitude>
-        <longitude>-84.877415</longitude>
-        <address_complete>700 Capitol Avenue, Suite 100, Frankfort, KY 40601</address_complete>
-        <address_number>700</address_number>
+        <date_of_birth>1964-04-06</date_of_birth>
+        <entered_office>2019-01-01</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Tim Walz is the Democratic Governor of Minnesota. Walz was elected to the office on November 6, 2018.</biography>
+        <phone>651-201-3400</phone>
+        <fax>651-797-1850</fax>
+        <latitude>44.954546</latitude>
+        <longitude>-93.099553</longitude>
+        <address_complete>130 State Capitol, 75 Rev Dr. Martin Luther King Jr. Blvd. St. Paul, MN 55155</address_complete>
+        <address_number>130</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Capitol</address_street>
-        <address_sec_unit_type>Suite</address_sec_unit_type>
-        <address_sec_unit_num>100</address_sec_unit_num>
-        <address_city>Frankfort</address_city>
-        <address_state>KY</address_state>
-        <address_zipcode>40601</address_zipcode>
-        <address_type>Avenue</address_type>
-        <website>http://governor.ky.gov</website>
-        <contact_page>http://governor.ky.gov/pages/contact.aspx</contact_page>
-        <facebook_url>https://www.facebook.com/GovMattBevin</facebook_url>
-        <twitter_handle>GovMattBevin</twitter_handle>
-        <twitter_url>https://twitter.com/GovMattBevin</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/matthew-bevin.jpg</photo_url>
+        <address_street>State</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://mn.gov/governor/</website>
+        <contact_page>https://mn.gov/governor/contact/</contact_page>
+        <facebook_url>https://www.facebook.com/GovTimWalz</facebook_url>
+        <twitter_handle>GovTimWalz</twitter_handle>
+        <twitter_url>https://twitter.com/GovTimWalz</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/tim-walz.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Mississippi</state_name>
@@ -1171,49 +1171,49 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/christopher-sununu.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>New Jersey</state_name>
-        <state_name_slug>new-jersey</state_name_slug>
-        <state_code>NJ</state_code>
-        <state_code_slug>nj</state_code_slug>
-        <votesmart>176221</votesmart>
+        <state_name>Maryland</state_name>
+        <state_name_slug>maryland</state_name_slug>
+        <state_code>MD</state_code>
+        <state_code_slug>md</state_code_slug>
+        <votesmart>147764</votesmart>
         <title>governor</title>
-        <party>democrat</party>
-        <name>Philip Murphy</name>
-        <name_slug>philip-murphy</name_slug>
-        <first_name>Philip</first_name>
-        <middle_name>Dunton</middle_name>
-        <last_name>Murphy</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Phil</goes_by>
-        <pronunciation>FIL MUR-fee</pronunciation>
+        <party>republican</party>
+        <name>Lawrence Hogan</name>
+        <name_slug>lawrence-hogan</name_slug>
+        <first_name>Lawrence</first_name>
+        <middle_name>Joseph</middle_name>
+        <last_name>Hogan</last_name>
+        <name_suffix>Jr.</name_suffix>
+        <goes_by>Larry</goes_by>
+        <pronunciation>LA-ree HOH-gen</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1957-08-16</date_of_birth>
-        <entered_office>2018-01-16</entered_office>
-        <term_end>2022-01-01</term_end>
-        <biography>Philip Dunton Murphy (born August 16, 1957) is an American financier, diplomat, and politician currently serving as the 56th Governor of New Jersey. Murphy, a Democrat, defeated then Lieutenant Governor Kim Guadagno in the 2017 gubernatorial election.</biography>
-        <phone>609-292-6000</phone>
-        <fax>609-292-3454</fax>
-        <latitude>40.220707</latitude>
-        <longitude>-74.763027</longitude>
-        <address_complete>Office of the Governor, Post Office Box 001, Trenton, NJ 08625</address_complete>
-        <address_number>null</address_number>
+        <date_of_birth>1956-05-25</date_of_birth>
+        <entered_office>2015-01-21</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Lawrence Joseph "Larry" Hogan Jr. (born May 25, 1956) is an American politician who currently serves as the 62nd Governor of Maryland, in office since January 2015. He is only the second Republican governor in Maryland in nearly 50 years, and the first Maryland governor from Anne Arundel County to be elected in over 100 years.</biography>
+        <phone>410-974-3901</phone>
+        <fax>410-974-3275</fax>
+        <latitude>38.9788597</latitude>
+        <longitude>-76.4932177</longitude>
+        <address_complete>100 State Circle, Annapolis, MD 21401</address_complete>
+        <address_number>100</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>of</address_street>
-        <address_sec_unit_type>Office</address_sec_unit_type>
+        <address_street>State</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.nj.gov/governor/</website>
-        <contact_page>http://www.nj.gov/governor/contact/</contact_page>
-        <facebook_url>https://www.facebook.com/PhilMurphyNJ</facebook_url>
-        <twitter_handle>philmurphynj</twitter_handle>
-        <twitter_url>https://twitter.com/philmurphynj</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/philip-murphy.jpg</photo_url>
+        <address_city>Annapolis</address_city>
+        <address_state>MD</address_state>
+        <address_zipcode>21401</address_zipcode>
+        <address_type>Circle</address_type>
+        <website>http://governor.maryland.gov/</website>
+        <contact_page>http://governor.maryland.gov/mail/default.asp</contact_page>
+        <facebook_url>https://www.facebook.com/larryhoganmd</facebook_url>
+        <twitter_handle>LarryHogan</twitter_handle>
+        <twitter_url>https://twitter.com/LarryHogan</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/lawrence-hogan.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>New Mexico</state_name>
@@ -1306,49 +1306,49 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/andrew-cuomo.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>North Carolina</state_name>
-        <state_name_slug>north-carolina</state_name_slug>
-        <state_code>NC</state_code>
-        <state_code_slug>nc</state_code_slug>
-        <votesmart>5900</votesmart>
+        <state_name>New Jersey</state_name>
+        <state_name_slug>new-jersey</state_name_slug>
+        <state_code>NJ</state_code>
+        <state_code_slug>nj</state_code_slug>
+        <votesmart>176221</votesmart>
         <title>governor</title>
         <party>democrat</party>
-        <name>Roy Cooper</name>
-        <name_slug>roy-cooper</name_slug>
-        <first_name>Roy</first_name>
-        <middle_name>Asberry</middle_name>
-        <last_name>Cooper</last_name>
-        <name_suffix>III</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>ROY KOO-per</pronunciation>
+        <name>Philip Murphy</name>
+        <name_slug>philip-murphy</name_slug>
+        <first_name>Philip</first_name>
+        <middle_name>Dunton</middle_name>
+        <last_name>Murphy</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Phil</goes_by>
+        <pronunciation>FIL MUR-fee</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>presbyterian</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1957-06-13</date_of_birth>
-        <entered_office>2017-01-01</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Roy Asberry Cooper III (born June 13, 1957) is an American politician and attorney who is the 75th and current Governor of North Carolina, since January 2017. Prior to his governorship, Cooper had served as the Attorney General of North Carolina from 2001 to 2017 and was previously a member of the North Carolina State Senate.</biography>
-        <phone>919-814-2000</phone>
-        <fax>919-733-2120</fax>
-        <latitude>35.8093599</latitude>
-        <longitude>-78.7094088</longitude>
-        <address_complete>20301 Mail Service Center, Raleigh, NC 27699</address_complete>
-        <address_number>20301</address_number>
+        <date_of_birth>1957-08-16</date_of_birth>
+        <entered_office>2018-01-16</entered_office>
+        <term_end>2022-01-01</term_end>
+        <biography>Philip Dunton Murphy (born August 16, 1957) is an American financier, diplomat, and politician currently serving as the 56th Governor of New Jersey. Murphy, a Democrat, defeated then Lieutenant Governor Kim Guadagno in the 2017 gubernatorial election.</biography>
+        <phone>609-292-6000</phone>
+        <fax>609-292-3454</fax>
+        <latitude>40.220707</latitude>
+        <longitude>-74.763027</longitude>
+        <address_complete>Office of the Governor, Post Office Box 001, Trenton, NJ 08625</address_complete>
+        <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Mail Service</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_street>of</address_street>
+        <address_sec_unit_type>Office</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Raleigh</address_city>
-        <address_state>NC</address_state>
-        <address_zipcode>27699</address_zipcode>
-        <address_type>Center</address_type>
-        <website>https://governor.nc.gov/</website>
-        <contact_page>https://governor.nc.gov/contact-governor-cooper</contact_page>
-        <facebook_url>https://www.facebook.com/NCgovernor</facebook_url>
-        <twitter_handle>NC_Governor</twitter_handle>
-        <twitter_url>https://twitter.com/NC_Governor</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/roy-cooper.jpg</photo_url>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.nj.gov/governor/</website>
+        <contact_page>http://www.nj.gov/governor/contact/</contact_page>
+        <facebook_url>https://www.facebook.com/PhilMurphyNJ</facebook_url>
+        <twitter_handle>philmurphynj</twitter_handle>
+        <twitter_url>https://twitter.com/philmurphynj</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/philip-murphy.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>North Dakota</state_name>
@@ -1981,49 +1981,49 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/jay-inslee.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Maryland</state_name>
-        <state_name_slug>maryland</state_name_slug>
-        <state_code>MD</state_code>
-        <state_code_slug>md</state_code_slug>
-        <votesmart>147764</votesmart>
+        <state_name>West Virginia</state_name>
+        <state_name_slug>west-virginia</state_name_slug>
+        <state_code>WV</state_code>
+        <state_code_slug>wv</state_code_slug>
+        <votesmart>166287</votesmart>
         <title>governor</title>
-        <party>republican</party>
-        <name>Lawrence Hogan</name>
-        <name_slug>lawrence-hogan</name_slug>
-        <first_name>Lawrence</first_name>
-        <middle_name>Joseph</middle_name>
-        <last_name>Hogan</last_name>
+        <party>democrat</party>
+        <name>James Justice</name>
+        <name_slug>james-justice</name_slug>
+        <first_name>James</first_name>
+        <middle_name>Conley</middle_name>
+        <last_name>Justice</last_name>
         <name_suffix>Jr.</name_suffix>
-        <goes_by>Larry</goes_by>
-        <pronunciation>LA-ree HOH-gen</pronunciation>
+        <goes_by>Jim</goes_by>
+        <pronunciation>JIM JUS-tis</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1956-05-25</date_of_birth>
-        <entered_office>2015-01-21</entered_office>
+        <date_of_birth>1951-04-27</date_of_birth>
+        <entered_office>2017-01-16</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>Lawrence Joseph "Larry" Hogan Jr. (born May 25, 1956) is an American politician who currently serves as the 62nd Governor of Maryland, in office since January 2015. He is only the second Republican governor in Maryland in nearly 50 years, and the first Maryland governor from Anne Arundel County to be elected in over 100 years.</biography>
-        <phone>410-974-3901</phone>
-        <fax>410-974-3275</fax>
-        <latitude>38.9788597</latitude>
-        <longitude>-76.4932177</longitude>
-        <address_complete>100 State Circle, Annapolis, MD 21401</address_complete>
-        <address_number>100</address_number>
+        <biography>James Conley "Jim" Justice Jr. (born April 27, 1951) is an American coal mining and agriculture businessman and politician who is the 36th and current Governor of West Virginia since January 2017. Owner of over 50 companies, including The Greenbrier, a luxury resort, Justice is one of the few billionaires from the state of West Virginia. A Democrat, Justice ran for Governor in the 2016 general election as the Democratic nominee, defeating the Republican nominee, Bill Cole.</biography>
+        <phone>304-558-2000</phone>
+        <fax>null</fax>
+        <latitude>38.3372072</latitude>
+        <longitude>-81.6145768</longitude>
+        <address_complete>State Capitol, 1900 Kanawha Blvd. E, Charleston, WV 25305</address_complete>
+        <address_number>null</address_number>
         <address_prefix>null</address_prefix>
         <address_street>State</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Annapolis</address_city>
-        <address_state>MD</address_state>
-        <address_zipcode>21401</address_zipcode>
-        <address_type>Circle</address_type>
-        <website>http://governor.maryland.gov/</website>
-        <contact_page>http://governor.maryland.gov/mail/default.asp</contact_page>
-        <facebook_url>https://www.facebook.com/larryhoganmd</facebook_url>
-        <twitter_handle>LarryHogan</twitter_handle>
-        <twitter_url>https://twitter.com/LarryHogan</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/lawrence-hogan.jpg</photo_url>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.governor.wv.gov/Pages/default.aspx</website>
+        <contact_page>http://www.governor.wv.gov/Pages/SubmitaCommenttotheGovernor.aspx</contact_page>
+        <facebook_url>https://www.facebook.com/WVGovernor</facebook_url>
+        <twitter_handle>WVGovernor</twitter_handle>
+        <twitter_url>https://twitter.com/WVGovernor</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/james-justice.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Wisconsin</state_name>
@@ -2071,139 +2071,139 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/tony-evers.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>West Virginia</state_name>
-        <state_name_slug>west-virginia</state_name_slug>
-        <state_code>WV</state_code>
-        <state_code_slug>wv</state_code_slug>
-        <votesmart>166287</votesmart>
+        <state_name>North Carolina</state_name>
+        <state_name_slug>north-carolina</state_name_slug>
+        <state_code>NC</state_code>
+        <state_code_slug>nc</state_code_slug>
+        <votesmart>5900</votesmart>
         <title>governor</title>
         <party>democrat</party>
-        <name>James Justice</name>
-        <name_slug>james-justice</name_slug>
-        <first_name>James</first_name>
-        <middle_name>Conley</middle_name>
-        <last_name>Justice</last_name>
-        <name_suffix>Jr.</name_suffix>
-        <goes_by>Jim</goes_by>
-        <pronunciation>JIM JUS-tis</pronunciation>
+        <name>Roy Cooper</name>
+        <name_slug>roy-cooper</name_slug>
+        <first_name>Roy</first_name>
+        <middle_name>Asberry</middle_name>
+        <last_name>Cooper</last_name>
+        <name_suffix>III</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>ROY KOO-per</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
+        <religion>presbyterian</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1951-04-27</date_of_birth>
-        <entered_office>2017-01-16</entered_office>
+        <date_of_birth>1957-06-13</date_of_birth>
+        <entered_office>2017-01-01</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>James Conley "Jim" Justice Jr. (born April 27, 1951) is an American coal mining and agriculture businessman and politician who is the 36th and current Governor of West Virginia since January 2017. Owner of over 50 companies, including The Greenbrier, a luxury resort, Justice is one of the few billionaires from the state of West Virginia. A Democrat, Justice ran for Governor in the 2016 general election as the Democratic nominee, defeating the Republican nominee, Bill Cole.</biography>
-        <phone>304-558-2000</phone>
-        <fax>null</fax>
-        <latitude>38.3372072</latitude>
-        <longitude>-81.6145768</longitude>
-        <address_complete>State Capitol, 1900 Kanawha Blvd. E, Charleston, WV 25305</address_complete>
-        <address_number>null</address_number>
+        <biography>Roy Asberry Cooper III (born June 13, 1957) is an American politician and attorney who is the 75th and current Governor of North Carolina, since January 2017. Prior to his governorship, Cooper had served as the Attorney General of North Carolina from 2001 to 2017 and was previously a member of the North Carolina State Senate.</biography>
+        <phone>919-814-2000</phone>
+        <fax>919-733-2120</fax>
+        <latitude>35.8093599</latitude>
+        <longitude>-78.7094088</longitude>
+        <address_complete>20301 Mail Service Center, Raleigh, NC 27699</address_complete>
+        <address_number>20301</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>State</address_street>
+        <address_street>Mail Service</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.governor.wv.gov/Pages/default.aspx</website>
-        <contact_page>http://www.governor.wv.gov/Pages/SubmitaCommenttotheGovernor.aspx</contact_page>
-        <facebook_url>https://www.facebook.com/WVGovernor</facebook_url>
-        <twitter_handle>WVGovernor</twitter_handle>
-        <twitter_url>https://twitter.com/WVGovernor</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/james-justice.jpg</photo_url>
+        <address_city>Raleigh</address_city>
+        <address_state>NC</address_state>
+        <address_zipcode>27699</address_zipcode>
+        <address_type>Center</address_type>
+        <website>https://governor.nc.gov/</website>
+        <contact_page>https://governor.nc.gov/contact-governor-cooper</contact_page>
+        <facebook_url>https://www.facebook.com/NCgovernor</facebook_url>
+        <twitter_handle>NC_Governor</twitter_handle>
+        <twitter_url>https://twitter.com/NC_Governor</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/roy-cooper.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Illinois</state_name>
-        <state_name_slug>illinois</state_name_slug>
-        <state_code>IL</state_code>
-        <state_code_slug>il</state_code_slug>
-        <votesmart>18341</votesmart>
+        <state_name>Maine</state_name>
+        <state_name_slug>maine</state_name_slug>
+        <state_code>ME</state_code>
+        <state_code_slug>me</state_code_slug>
+        <votesmart>36856</votesmart>
         <title>governor</title>
-        <party>democrat</party>
-        <name>J.B. Pritzker</name>
-        <name_slug>jb-pritzker</name_slug>
-        <first_name>J.B.</first_name>
+        <party>republican</party>
+        <name>Janet Mills</name>
+        <name_slug>janet-mills</name_slug>
+        <first_name>Janet</first_name>
         <middle_name>null</middle_name>
-        <last_name>Pritzker</last_name>
+        <last_name>Mills</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>J B PRITS-ker</pronunciation>
-        <gender>male</gender>
+        <pronunciation>JA-net MILZ</pronunciation>
+        <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1965-01-19</date_of_birth>
+        <date_of_birth>1947-12-30</date_of_birth>
         <entered_office>2019-01-01</entered_office>
         <term_end>2022-12-31</term_end>
-        <biography>J.B. Pritzker is the Democratic Governor of Illinois. Pritzker was elected to the office on November 6, 2018.</biography>
-        <phone>217-782-0244</phone>
-        <fax>217-524-4049</fax>
-        <latitude>39.801149</latitude>
-        <longitude>-89.648686</longitude>
-        <address_complete>State Capitol, Springfield, IL 62706</address_complete>
-        <address_number>null</address_number>
+        <biography>Janet T. Mills is the Democratic Governor of Maine. Mills was elected to the office on November 6, 2018. Mills served as Maine attorney general from 2009 to 2010 and again assumed office in 2012.</biography>
+        <phone>207-287-3531</phone>
+        <fax>207-287-1034</fax>
+        <latitude>44.3069799</latitude>
+        <longitude>-69.784334</longitude>
+        <address_complete>1 State House Station, Augusta, ME 04333</address_complete>
+        <address_number>1</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>State</address_street>
+        <address_street>State House</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.illinois.gov/gov/</website>
-        <contact_page>https://www2.illinois.gov/gov/contactus/Pages/default.aspx</contact_page>
-        <facebook_url>https://www.facebook.com/jbpritzker</facebook_url>
-        <twitter_handle>jbpritzker</twitter_handle>
-        <twitter_url>https://twitter.com/jbpritzker</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/jb-pritzker.jpg</photo_url>
+        <address_city>Augusta</address_city>
+        <address_state>ME</address_state>
+        <address_zipcode>04333</address_zipcode>
+        <address_type>Station</address_type>
+        <website>https://www.maine.gov/governor/</website>
+        <contact_page>https://www.maine.gov/governor/mills/contact</contact_page>
+        <facebook_url>https://www.facebook.com/millsforgovernor/</facebook_url>
+        <twitter_handle>JanetMillsforME</twitter_handle>
+        <twitter_url>https://twitter.com/JanetMillsforME</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/janet-mills.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Minnesota</state_name>
-        <state_name_slug>minnesota</state_name_slug>
-        <state_code>MN</state_code>
-        <state_code_slug>mn</state_code_slug>
-        <votesmart>65443</votesmart>
+        <state_name>Massachusetts</state_name>
+        <state_name_slug>massachusetts</state_name_slug>
+        <state_code>MA</state_code>
+        <state_code_slug>ma</state_code_slug>
+        <votesmart>124824</votesmart>
         <title>governor</title>
-        <party>democrat</party>
-        <name>Tim Walz</name>
-        <name_slug>tim-walz</name_slug>
-        <first_name>Tim</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Walz</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>TIM WALZ</pronunciation>
+        <party>republican</party>
+        <name>Charles Baker</name>
+        <name_slug>charles-baker</name_slug>
+        <first_name>Charles</first_name>
+        <middle_name>Duane</middle_name>
+        <last_name>Baker</last_name>
+        <name_suffix>Jr.</name_suffix>
+        <goes_by>Charlie</goes_by>
+        <pronunciation>CHARR-lee BAY-ker</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>lutheran</religion>
+        <religion>protestant</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1964-04-06</date_of_birth>
-        <entered_office>2019-01-01</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Tim Walz is the Democratic Governor of Minnesota. Walz was elected to the office on November 6, 2018.</biography>
-        <phone>651-201-3400</phone>
-        <fax>651-797-1850</fax>
-        <latitude>44.954546</latitude>
-        <longitude>-93.099553</longitude>
-        <address_complete>130 State Capitol, 75 Rev Dr. Martin Luther King Jr. Blvd. St. Paul, MN 55155</address_complete>
-        <address_number>130</address_number>
+        <date_of_birth>1956-11-13</date_of_birth>
+        <entered_office>2015-01-08</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Charles Duane "Charlie" Baker Jr. (born November 13, 1956), is an American businessman and the 72nd and current Governor of Massachusetts, having been sworn into office on January 8, 2015. He was a cabinet official under two Massachusetts governors, spent ten years as CEO of Harvard Pilgrim Health Care and was also the Republican nominee for governor of Massachusetts in an unsuccessful 2010 bid.</biography>
+        <phone>617-725-4005</phone>
+        <fax>617-727-9725</fax>
+        <latitude>42.3587723</latitude>
+        <longitude>-71.0660006</longitude>
+        <address_complete>Massachusetts State House, Office of the Governor, Room 280 Boston, MA 02133</address_complete>
+        <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>State</address_street>
+        <address_street>Massachusetts</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>null</address_city>
         <address_state>null</address_state>
         <address_zipcode>null</address_zipcode>
         <address_type>null</address_type>
-        <website>https://mn.gov/governor/</website>
-        <contact_page>https://mn.gov/governor/contact/</contact_page>
-        <facebook_url>https://www.facebook.com/GovTimWalz</facebook_url>
-        <twitter_handle>GovTimWalz</twitter_handle>
-        <twitter_url>https://twitter.com/GovTimWalz</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/tim-walz.jpg</photo_url>
+        <website>http://www.mass.gov/governor/</website>
+        <contact_page>http://www.mass.gov/governor/constituent-services/contact-governor-office/</contact_page>
+        <facebook_url>https://www.facebook.com/CharlieBakerMA</facebook_url>
+        <twitter_handle>massgovernor</twitter_handle>
+        <twitter_url>https://twitter.com/massgovernor</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/charles-baker.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Wyoming</state_name>
