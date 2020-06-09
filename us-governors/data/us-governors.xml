@@ -24,7 +24,7 @@
         <entered_office>2017-04-10</entered_office>
         <term_end>2019-01-01</term_end>
         <biography>Kay Ellen Ivey (born October 15, 1944) is an American politician and educator who is the 54th and current Governor of Alabama since April 2017. Ivey, a member of the Republican Party, served as the 38th Alabama State Treasurer from 2003 to 2011, and later became the 30th Lieutenant Governor of Alabama; she was the first Republican woman elected in this state, serving from January 2011 until April 2017.</biography>
-        <phone>334-242-7900</phone>
+        <phone>334-242-7100</phone>
         <fax>334-242-4661</fax>
         <latitude>32.3773052</latitude>
         <longitude>-86.3010403</longitude>
@@ -271,51 +271,6 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/jared-polis.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Connecticut</state_name>
-        <state_name_slug>connecticut</state_name_slug>
-        <state_code>CT</state_code>
-        <state_code_slug>ct</state_code_slug>
-        <votesmart>68381</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Edward Lamont</name>
-        <name_slug>edward-lamont</name_slug>
-        <first_name>Edward</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Lamont</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Ned</goes_by>
-        <pronunciation>ED-werd LUH-mahnt</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1954-01-03</date_of_birth>
-        <entered_office>2019-01-09</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Edward Miner Lamont Jr. is an American businessman and politician who is the 89th governor of Connecticut. He is a member of the Democratic Party.</biography>
-        <phone>800-406-1527</phone>
-        <fax>860-524-7395</fax>
-        <latitude>41.7641979</latitude>
-        <longitude>-72.684661</longitude>
-        <address_complete>210 Capitol Avenue, Hartford CT, 61060</address_complete>
-        <address_number>210</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Capitol</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Hartford</address_city>
-        <address_state>CT</address_state>
-        <address_zipcode>61060</address_zipcode>
-        <address_type>Avenue</address_type>
-        <website>https://portal.ct.gov/Office-of-the-Governor</website>
-        <contact_page>https://portal.ct.gov/Office-of-the-Governor/Contact/Email-Governor-Lamont</contact_page>
-        <facebook_url>https://www.facebook.com/NedLamontCT/</facebook_url>
-        <twitter_handle>GovNedLamont</twitter_handle>
-        <twitter_url>https://twitter.com/GovNedLamont</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/edward-lamont.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Delaware</state_name>
         <state_name_slug>delaware</state_name_slug>
         <state_code>DE</state_code>
@@ -359,51 +314,6 @@
         <twitter_handle>johncarneyde</twitter_handle>
         <twitter_url>https://twitter.com/johncarneyde</twitter_url>
         <photo_url>https://repimages.5calls.org/us-governors/512x512/john-carney.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Georgia</state_name>
-        <state_name_slug>georgia</state_name_slug>
-        <state_code>GA</state_code>
-        <state_code_slug>ga</state_code_slug>
-        <votesmart>31876</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Brian Kemp</name>
-        <name_slug>brian-kemp</name_slug>
-        <first_name>Brian</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Kemp</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>BRI-an KEMP</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>episcopalian</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1963-11-02</date_of_birth>
-        <entered_office>2019-01-08</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Brian Kemp is an American businessman and politician who is the 83rd and incumbent governor of the U.S. state of Georgia, in office since 2019. A member of the Republican Party, he previously was the Secretary of State of Georgia and a member of the Georgia State Senate.</biography>
-        <phone>404-656-1776</phone>
-        <fax>404-657-7332</fax>
-        <latitude>33.74902</latitude>
-        <longitude>-84.38796</longitude>
-        <address_complete>203 State Capitol, Atlanta, GA 30334</address_complete>
-        <address_number>203</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>State Capitol</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Atlanta</address_city>
-        <address_state>GA</address_state>
-        <address_zipcode>30334</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://gov.georgia.gov/</website>
-        <contact_page>https://gov.georgia.gov/webform/contact-governor</contact_page>
-        <facebook_url>https://www.facebook.com/GovKemp/</facebook_url>
-        <twitter_handle>govkemp</twitter_handle>
-        <twitter_url>https://twitter.com/govkemp</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/brian-kemp.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Florida</state_name>
@@ -541,139 +451,49 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/brad-little.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Illinois</state_name>
-        <state_name_slug>illinois</state_name_slug>
-        <state_code>IL</state_code>
-        <state_code_slug>il</state_code_slug>
-        <votesmart>18341</votesmart>
+        <state_name>Connecticut</state_name>
+        <state_name_slug>connecticut</state_name_slug>
+        <state_code>CT</state_code>
+        <state_code_slug>ct</state_code_slug>
+        <votesmart>68381</votesmart>
         <title>governor</title>
         <party>democrat</party>
-        <name>J.B. Pritzker</name>
-        <name_slug>jb-pritzker</name_slug>
-        <first_name>J.B.</first_name>
+        <name>Edward Lamont</name>
+        <name_slug>edward-lamont</name_slug>
+        <first_name>Edward</first_name>
         <middle_name>null</middle_name>
-        <last_name>Pritzker</last_name>
+        <last_name>Lamont</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>J B PRITS-ker</pronunciation>
+        <goes_by>Ned</goes_by>
+        <pronunciation>ED-werd LUH-mahnt</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1965-01-19</date_of_birth>
-        <entered_office>2019-01-01</entered_office>
+        <date_of_birth>1954-01-03</date_of_birth>
+        <entered_office>2019-01-09</entered_office>
         <term_end>2022-12-31</term_end>
-        <biography>J.B. Pritzker is the Democratic Governor of Illinois. Pritzker was elected to the office on November 6, 2018.</biography>
-        <phone>217-782-6831</phone>
-        <fax>217-524-4049</fax>
-        <latitude>39.801149</latitude>
-        <longitude>-89.648686</longitude>
-        <address_complete>State Capitol, Springfield, IL 62706</address_complete>
-        <address_number>null</address_number>
+        <biography>Edward Miner Lamont Jr. is an American businessman and politician who is the 89th governor of Connecticut. He is a member of the Democratic Party.</biography>
+        <phone>800-406-1527</phone>
+        <fax>860-524-7395</fax>
+        <latitude>41.7641979</latitude>
+        <longitude>-72.684661</longitude>
+        <address_complete>210 Capitol Avenue, Hartford CT, 61060</address_complete>
+        <address_number>210</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>State</address_street>
+        <address_street>Capitol</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.illinois.gov/gov/</website>
-        <contact_page>https://www2.illinois.gov/gov/contactus/Pages/default.aspx</contact_page>
-        <facebook_url>https://www.facebook.com/jbpritzker</facebook_url>
-        <twitter_handle>jbpritzker</twitter_handle>
-        <twitter_url>https://twitter.com/jbpritzker</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/jb-pritzker.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Indiana</state_name>
-        <state_name_slug>indiana</state_name_slug>
-        <state_code>IN</state_code>
-        <state_code_slug>in</state_code_slug>
-        <votesmart>34349</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Eric Holcomb</name>
-        <name_slug>eric-holcomb</name_slug>
-        <first_name>Eric</first_name>
-        <middle_name>Joseph</middle_name>
-        <last_name>Holcomb</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>E-rik HAWL-koam</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>church-of-god</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1968-05-02</date_of_birth>
-        <entered_office>2017-01-09</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Eric Joseph Holcomb (born May 2, 1968) is an American politician who serves as the 51st and current Governor of Indiana since January 2017. Prior to his election to the governorship, he was also the 51st Lieutenant Governor of Indiana under Governor Mike Pence, now the 48th and current Vice President of the United States.</biography>
-        <phone>317-232-4567</phone>
-        <fax>317-232-3443</fax>
-        <latitude>39.7984385</latitude>
-        <longitude>-89.6573079</longitude>
-        <address_complete>State House, Room 206 Indianapolis, IN 46204</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>State</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.in.gov/gov/</website>
-        <contact_page>http://www.in.gov/core/help.html</contact_page>
-        <facebook_url>https://www.facebook.com/GovHolcomb</facebook_url>
-        <twitter_handle>GovHolcomb</twitter_handle>
-        <twitter_url>https://twitter.com/GovHolcomb</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/eric-holcomb.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Kansas</state_name>
-        <state_name_slug>kansas</state_name_slug>
-        <state_code>KS</state_code>
-        <state_code_slug>ks</state_code_slug>
-        <votesmart>34496</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Laura Kelly</name>
-        <name_slug>laura-kelly</name_slug>
-        <first_name>Laura</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Kelly</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>LA-ur-ra KE-lee</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1950-01-24</date_of_birth>
-        <entered_office>2018-01-31</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Laura Kelly is the Democratic Governor of Kansas. Kelly was elected to the office on November 6, 2018. Kelly is a former Democratic member of the Kansas State Senate, representing District 18 from 2005 to 2018.</biography>
-        <phone>785-296-3232</phone>
-        <fax>785-296-7973</fax>
-        <latitude>39.046497</latitude>
-        <longitude>-95.67936</longitude>
-        <address_complete>300 SW 10th Avenue, Suite 212S, Topeka, KS 66612-1590</address_complete>
-        <address_number>300</address_number>
-        <address_prefix>SW</address_prefix>
-        <address_street>10th</address_street>
-        <address_sec_unit_type>Suite</address_sec_unit_type>
-        <address_sec_unit_num>212S</address_sec_unit_num>
-        <address_city>Topeka</address_city>
-        <address_state>KS</address_state>
-        <address_zipcode>66612</address_zipcode>
+        <address_city>Hartford</address_city>
+        <address_state>CT</address_state>
+        <address_zipcode>61060</address_zipcode>
         <address_type>Avenue</address_type>
-        <website>https://governor.kansas.gov</website>
-        <contact_page>https://governor.kansas.gov/contact/contact-the-governor/</contact_page>
-        <facebook_url>https://www.facebook.com/LauraKellyKS/</facebook_url>
-        <twitter_handle>senatorkelly</twitter_handle>
-        <twitter_url>https://twitter.com/senatorkelly</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/laura-kelly.jpg</photo_url>
+        <website>https://portal.ct.gov/Office-of-the-Governor</website>
+        <contact_page>https://portal.ct.gov/Office-of-the-Governor/Contact/Email-Governor-Lamont</contact_page>
+        <facebook_url>https://www.facebook.com/NedLamontCT/</facebook_url>
+        <twitter_handle>GovNedLamont</twitter_handle>
+        <twitter_url>https://twitter.com/GovNedLamont</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/edward-lamont.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Iowa</state_name>
@@ -721,29 +541,74 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/kimberly-reynolds.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>Kansas</state_name>
+        <state_name_slug>kansas</state_name_slug>
+        <state_code>KS</state_code>
+        <state_code_slug>ks</state_code_slug>
+        <votesmart>34496</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Laura Kelly</name>
+        <name_slug>laura-kelly</name_slug>
+        <first_name>Laura</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Kelly</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>LA-ur-ra KE-lee</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1950-01-24</date_of_birth>
+        <entered_office>2018-01-31</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Laura Kelly is the Democratic Governor of Kansas. Kelly was elected to the office on November 6, 2018. Kelly is a former Democratic member of the Kansas State Senate, representing District 18 from 2005 to 2018.</biography>
+        <phone>785-296-3232</phone>
+        <fax>785-296-7973</fax>
+        <latitude>39.046497</latitude>
+        <longitude>-95.67936</longitude>
+        <address_complete>300 SW 10th Avenue, Suite 212S, Topeka, KS 66612-1590</address_complete>
+        <address_number>300</address_number>
+        <address_prefix>SW</address_prefix>
+        <address_street>10th</address_street>
+        <address_sec_unit_type>Suite</address_sec_unit_type>
+        <address_sec_unit_num>212S</address_sec_unit_num>
+        <address_city>Topeka</address_city>
+        <address_state>KS</address_state>
+        <address_zipcode>66612</address_zipcode>
+        <address_type>Avenue</address_type>
+        <website>https://governor.kansas.gov</website>
+        <contact_page>https://governor.kansas.gov/contact/contact-the-governor/</contact_page>
+        <facebook_url>https://www.facebook.com/LauraKellyKS/</facebook_url>
+        <twitter_handle>senatorkelly</twitter_handle>
+        <twitter_url>https://twitter.com/senatorkelly</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/laura-kelly.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>Kentucky</state_name>
         <state_name_slug>kentucky</state_name_slug>
         <state_code>KY</state_code>
         <state_code_slug>ky</state_code_slug>
-        <votesmart>146094</votesmart>
+        <votesmart>156112</votesmart>
         <title>governor</title>
-        <party>republican</party>
-        <name>Matthew Bevin</name>
-        <name_slug>matthew-bevin</name_slug>
-        <first_name>Matthew</first_name>
-        <middle_name>Griswold</middle_name>
-        <last_name>Bevin</last_name>
+        <party>democrat</party>
+        <name>Andy Beshear</name>
+        <name_slug>andy-beshear</name_slug>
+        <first_name>Andy</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Beshear</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>Matt</goes_by>
-        <pronunciation>MAT BE-vin</pronunciation>
+        <goes_by>Andy</goes_by>
+        <pronunciation>AN-droo BE-shear</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>christian</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1967-01-09</date_of_birth>
-        <entered_office>2015-12-08</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Matthew Griswold "Matt" Bevin (born January 9, 1967) is an American businessman and politician who currently serves as the 62nd Governor of Kentucky. He is the third Republican elected Governor of Kentucky since World War II, after Ernie Fletcher (2003–2007) and Louie B. Nunn (1967–1971).</biography>
+        <date_of_birth>1977-11-29</date_of_birth>
+        <entered_office>2019-12-10</entered_office>
+        <term_end>2023-01-01</term_end>
+        <biography>Andy Beshear grew up in Fayette, Franklin, and Clark counties and graduated from Henry Clay High School. He is the son of Steve and Jane Beshear, the 61st Governor and first lady. Along the way, they instilled in Andy the teachings of Andy’s grandfather, a Baptist minister from Dawson Springs, Kentucky, including the values of family, faith, and public service.</biography>
         <phone>502-564-2611</phone>
         <fax>502-564-2517</fax>
         <latitude>38.1867792</latitude>
@@ -760,10 +625,10 @@
         <address_type>Avenue</address_type>
         <website>http://governor.ky.gov</website>
         <contact_page>http://governor.ky.gov/pages/contact.aspx</contact_page>
-        <facebook_url>https://www.facebook.com/GovMattBevin</facebook_url>
-        <twitter_handle>GovMattBevin</twitter_handle>
-        <twitter_url>https://twitter.com/GovMattBevin</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/matthew-bevin.jpg</photo_url>
+        <facebook_url>null</facebook_url>
+        <twitter_handle>null</twitter_handle>
+        <twitter_url>null</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/andy-beshear.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Louisiana</state_name>
@@ -789,7 +654,7 @@
         <entered_office>2016-01-11</entered_office>
         <term_end>2019-01-01</term_end>
         <biography>John Bel Edwards (born September 16, 1966) is an American politician and lawyer who is the 56th and current Governor of Louisiana, in office since January 11, 2016. He was previously the Minority Leader of the Louisiana House of Representatives and represented the 72nd District for two terms. He left the state legislature to run for governor in 2015.</biography>
-        <phone>225-342-7015</phone>
+        <phone>225-342-0991</phone>
         <fax>225-342-7099</fax>
         <latitude>33.5766177</latitude>
         <longitude>-112.242531</longitude>
@@ -809,6 +674,141 @@
         <twitter_handle>louisianagov</twitter_handle>
         <twitter_url>https://twitter.com/louisianagov</twitter_url>
         <photo_url>https://repimages.5calls.org/us-governors/512x512/john-edwards.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Maine</state_name>
+        <state_name_slug>maine</state_name_slug>
+        <state_code>ME</state_code>
+        <state_code_slug>me</state_code_slug>
+        <votesmart>36856</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Janet Mills</name>
+        <name_slug>janet-mills</name_slug>
+        <first_name>Janet</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Mills</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JA-net MILZ</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1947-12-30</date_of_birth>
+        <entered_office>2019-01-01</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Janet T. Mills is the Democratic Governor of Maine. Mills was elected to the office on November 6, 2018. Mills served as Maine attorney general from 2009 to 2010 and again assumed office in 2012.</biography>
+        <phone>207-287-3531</phone>
+        <fax>207-287-1034</fax>
+        <latitude>44.3069799</latitude>
+        <longitude>-69.784334</longitude>
+        <address_complete>1 State House Station, Augusta, ME 04333</address_complete>
+        <address_number>1</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>State House</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Augusta</address_city>
+        <address_state>ME</address_state>
+        <address_zipcode>04333</address_zipcode>
+        <address_type>Station</address_type>
+        <website>https://www.maine.gov/governor/</website>
+        <contact_page>https://www.maine.gov/governor/mills/contact</contact_page>
+        <facebook_url>https://www.facebook.com/millsforgovernor/</facebook_url>
+        <twitter_handle>JanetMillsforME</twitter_handle>
+        <twitter_url>https://twitter.com/JanetMillsforME</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/janet-mills.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Maryland</state_name>
+        <state_name_slug>maryland</state_name_slug>
+        <state_code>MD</state_code>
+        <state_code_slug>md</state_code_slug>
+        <votesmart>147764</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Lawrence Hogan</name>
+        <name_slug>lawrence-hogan</name_slug>
+        <first_name>Lawrence</first_name>
+        <middle_name>Joseph</middle_name>
+        <last_name>Hogan</last_name>
+        <name_suffix>Jr.</name_suffix>
+        <goes_by>Larry</goes_by>
+        <pronunciation>LA-ree HOH-gen</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1956-05-25</date_of_birth>
+        <entered_office>2015-01-21</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Lawrence Joseph "Larry" Hogan Jr. (born May 25, 1956) is an American politician who currently serves as the 62nd Governor of Maryland, in office since January 2015. He is only the second Republican governor in Maryland in nearly 50 years, and the first Maryland governor from Anne Arundel County to be elected in over 100 years.</biography>
+        <phone>410-974-3901</phone>
+        <fax>410-974-3275</fax>
+        <latitude>38.9788597</latitude>
+        <longitude>-76.4932177</longitude>
+        <address_complete>100 State Circle, Annapolis, MD 21401</address_complete>
+        <address_number>100</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>State</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Annapolis</address_city>
+        <address_state>MD</address_state>
+        <address_zipcode>21401</address_zipcode>
+        <address_type>Circle</address_type>
+        <website>http://governor.maryland.gov/</website>
+        <contact_page>http://governor.maryland.gov/mail/default.asp</contact_page>
+        <facebook_url>https://www.facebook.com/larryhoganmd</facebook_url>
+        <twitter_handle>LarryHogan</twitter_handle>
+        <twitter_url>https://twitter.com/LarryHogan</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/lawrence-hogan.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Massachusetts</state_name>
+        <state_name_slug>massachusetts</state_name_slug>
+        <state_code>MA</state_code>
+        <state_code_slug>ma</state_code_slug>
+        <votesmart>124824</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Charles Baker</name>
+        <name_slug>charles-baker</name_slug>
+        <first_name>Charles</first_name>
+        <middle_name>Duane</middle_name>
+        <last_name>Baker</last_name>
+        <name_suffix>Jr.</name_suffix>
+        <goes_by>Charlie</goes_by>
+        <pronunciation>CHARR-lee BAY-ker</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>protestant</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1956-11-13</date_of_birth>
+        <entered_office>2015-01-08</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Charles Duane "Charlie" Baker Jr. (born November 13, 1956), is an American businessman and the 72nd and current Governor of Massachusetts, having been sworn into office on January 8, 2015. He was a cabinet official under two Massachusetts governors, spent ten years as CEO of Harvard Pilgrim Health Care and was also the Republican nominee for governor of Massachusetts in an unsuccessful 2010 bid.</biography>
+        <phone>617-725-4005</phone>
+        <fax>617-727-9725</fax>
+        <latitude>42.3587723</latitude>
+        <longitude>-71.0660006</longitude>
+        <address_complete>Massachusetts State House, Office of the Governor, Room 280 Boston, MA 02133</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Massachusetts</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.mass.gov/governor/</website>
+        <contact_page>http://www.mass.gov/governor/constituent-services/contact-governor-office/</contact_page>
+        <facebook_url>https://www.facebook.com/CharlieBakerMA</facebook_url>
+        <twitter_handle>massgovernor</twitter_handle>
+        <twitter_url>https://twitter.com/massgovernor</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/charles-baker.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Michigan</state_name>
@@ -834,7 +834,7 @@
         <entered_office>2019-01-01</entered_office>
         <term_end>2022-12-31</term_end>
         <biography>Gretchen Whitmer is the Democratic Governor of Michigan. Whitmer was elected to the office on November 6, 2018. Whitmer is a former Democratic member of the Michigan State Senate, representing District 23 from her win in a 2006 special election to 2015. She served as minority leader for the final four years of her tenure.</biography>
-        <phone>517-373-3400</phone>
+        <phone>517-335-7858</phone>
         <fax>517-335-6863</fax>
         <latitude>42.741625</latitude>
         <longitude>-84.59981</longitude>
@@ -905,90 +905,90 @@
         <state_name_slug>mississippi</state_name_slug>
         <state_code>MS</state_code>
         <state_code_slug>ms</state_code_slug>
-        <votesmart>2126</votesmart>
+        <votesmart>40266</votesmart>
         <title>governor</title>
         <party>republican</party>
-        <name>Dewey Bryant</name>
-        <name_slug>dewey-bryant</name_slug>
-        <first_name>Dewey</first_name>
-        <middle_name>Phillip</middle_name>
-        <last_name>Bryant</last_name>
+        <name>Tate Reeves</name>
+        <name_slug>tate-reeves</name_slug>
+        <first_name>Tate</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Reeves</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>Phil</goes_by>
-        <pronunciation>FIL BRY-ant</pronunciation>
+        <goes_by>null</goes_by>
+        <pronunciation>TATE REEVZ</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>united-methodist</religion>
+        <religion>methodist</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1954-12-09</date_of_birth>
-        <entered_office>2012-01-10</entered_office>
+        <date_of_birth>1974-06-05</date_of_birth>
+        <entered_office>2020-01-14</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>Dewey Phillip "Phil" Bryant (born December 9, 1954) is an American politician from the state of Mississippi who has served as the 64th Governor of Mississippi since 2012. He previously served as the 31st Lieutenant Governor of Mississippi from 2008 to 2012 and as the 40th State Auditor of Mississippi from 1996 to 2008.</biography>
+        <biography>Jonathon Tate Reeves is an American politician who is the 65th governor of Mississippi, serving since 2020, and was lieutenant governor of Mississippi from 2012 to 2020. A member of the Republican Party, he was previously Mississippi State Treasurer. At age 29, he was the youngest state treasurer in the nation when elected in 2003 and the first Republican to ever hold the office in Mississippi. He was the Republican nominee for governor of Mississippi in the 2019 election and defeated Democratic Attorney General Jim Hood</biography>
         <phone>601-359-3150</phone>
         <fax>601-359-3741</fax>
         <latitude>32.3504041</latitude>
         <longitude>-90.1551408</longitude>
-        <address_complete>P.O. Box 139, Jackson, MS 39205</address_complete>
-        <address_number>null</address_number>
+        <address_complete>550 High St. Sillers Building, 19th Floor, Jackson, MS 39201</address_complete>
+        <address_number>550</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Jackson</address_street>
-        <address_sec_unit_type>PO. Box</address_sec_unit_type>
-        <address_sec_unit_num>139</address_sec_unit_num>
+        <address_street>High</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>null</address_city>
         <address_state>null</address_state>
         <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.governorbryant.ms.gov/</website>
-        <contact_page>http://www.governorbryant.ms.gov/Pages/Contact.aspx</contact_page>
-        <facebook_url>https://www.facebook.com/im4phil</facebook_url>
-        <twitter_handle>PhilBryantMS</twitter_handle>
-        <twitter_url>https://twitter.com/PhilBryantMS</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/dewey-bryant.jpg</photo_url>
+        <address_type>St</address_type>
+        <website>https://governorreeves.ms.gov/</website>
+        <contact_page>https://governorreeves.ms.gov/</contact_page>
+        <facebook_url>https://www.facebook.com/tatereeves/</facebook_url>
+        <twitter_handle>tatereeves</twitter_handle>
+        <twitter_url>https://twitter.com/tatereeves</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/tate-reeves.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Missouri</state_name>
-        <state_name_slug>missouri</state_name_slug>
-        <state_code>MO</state_code>
-        <state_code_slug>mo</state_code_slug>
-        <votesmart>39119</votesmart>
+        <state_name>Georgia</state_name>
+        <state_name_slug>georgia</state_name_slug>
+        <state_code>GA</state_code>
+        <state_code_slug>ga</state_code_slug>
+        <votesmart>31876</votesmart>
         <title>governor</title>
         <party>republican</party>
-        <name>Michael Parson</name>
-        <name_slug>michael-parson</name_slug>
-        <first_name>Michael</first_name>
-        <middle_name>L.</middle_name>
-        <last_name>Parson</last_name>
+        <name>Brian Kemp</name>
+        <name_slug>brian-kemp</name_slug>
+        <first_name>Brian</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Kemp</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>Mike</goes_by>
-        <pronunciation>MIKE PAR-son</pronunciation>
+        <goes_by>null</goes_by>
+        <pronunciation>BRI-an KEMP</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
+        <religion>episcopalian</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1955-09-17</date_of_birth>
-        <entered_office>2018-06-01</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Michael L. Parson (born September 17, 1955) is an American politician and former law enforcement officer currently serving as the 57th Governor of Missouri, having taken office on June 1, 2018 after the resignation of Eric Greitens. Parson previously served as the 47th Lieutenant Governor of Missouri.</biography>
-        <phone>573-751-3222</phone>
-        <fax>573-526-3291</fax>
-        <latitude>38.5774764</latitude>
-        <longitude>-92.1758644</longitude>
-        <address_complete>201 West Capitol Avenue, Room 218, Post Office Box 720, Jefferson City, MO 65101</address_complete>
-        <address_number>201</address_number>
-        <address_prefix>West</address_prefix>
-        <address_street>Capitol</address_street>
-        <address_sec_unit_type>Room</address_sec_unit_type>
-        <address_sec_unit_num>218</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>Avenue</address_type>
-        <website>https://governor.mo.gov/</website>
-        <contact_page>https://governor.mo.gov/get-involved/contact-the-governors-office</contact_page>
-        <facebook_url>https://www.facebook.com/TeamMikeParson/</facebook_url>
-        <twitter_handle>mikeparson</twitter_handle>
-        <twitter_url>https://twitter.com/mikeparson</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/michael-parson.jpg</photo_url>
+        <date_of_birth>1963-11-02</date_of_birth>
+        <entered_office>2019-01-08</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Brian Kemp is an American businessman and politician who is the 83rd and incumbent governor of the U.S. state of Georgia, in office since 2019. A member of the Republican Party, he previously was the Secretary of State of Georgia and a member of the Georgia State Senate.</biography>
+        <phone>404-656-1776</phone>
+        <fax>404-657-7332</fax>
+        <latitude>33.74902</latitude>
+        <longitude>-84.38796</longitude>
+        <address_complete>203 State Capitol, Atlanta, GA 30334</address_complete>
+        <address_number>203</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>State Capitol</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Atlanta</address_city>
+        <address_state>GA</address_state>
+        <address_zipcode>30334</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://gov.georgia.gov/</website>
+        <contact_page>https://gov.georgia.gov/webform/contact-governor</contact_page>
+        <facebook_url>https://www.facebook.com/GovKemp/</facebook_url>
+        <twitter_handle>govkemp</twitter_handle>
+        <twitter_url>https://twitter.com/govkemp</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/brian-kemp.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Montana</state_name>
@@ -1171,49 +1171,49 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/christopher-sununu.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Maryland</state_name>
-        <state_name_slug>maryland</state_name_slug>
-        <state_code>MD</state_code>
-        <state_code_slug>md</state_code_slug>
-        <votesmart>147764</votesmart>
+        <state_name>New Jersey</state_name>
+        <state_name_slug>new-jersey</state_name_slug>
+        <state_code>NJ</state_code>
+        <state_code_slug>nj</state_code_slug>
+        <votesmart>176221</votesmart>
         <title>governor</title>
-        <party>republican</party>
-        <name>Lawrence Hogan</name>
-        <name_slug>lawrence-hogan</name_slug>
-        <first_name>Lawrence</first_name>
-        <middle_name>Joseph</middle_name>
-        <last_name>Hogan</last_name>
-        <name_suffix>Jr.</name_suffix>
-        <goes_by>Larry</goes_by>
-        <pronunciation>LA-ree HOH-gen</pronunciation>
+        <party>democrat</party>
+        <name>Philip Murphy</name>
+        <name_slug>philip-murphy</name_slug>
+        <first_name>Philip</first_name>
+        <middle_name>Dunton</middle_name>
+        <last_name>Murphy</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Phil</goes_by>
+        <pronunciation>FIL MUR-fee</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1956-05-25</date_of_birth>
-        <entered_office>2015-01-21</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Lawrence Joseph "Larry" Hogan Jr. (born May 25, 1956) is an American politician who currently serves as the 62nd Governor of Maryland, in office since January 2015. He is only the second Republican governor in Maryland in nearly 50 years, and the first Maryland governor from Anne Arundel County to be elected in over 100 years.</biography>
-        <phone>410-974-3901</phone>
-        <fax>410-974-3275</fax>
-        <latitude>38.9788597</latitude>
-        <longitude>-76.4932177</longitude>
-        <address_complete>100 State Circle, Annapolis, MD 21401</address_complete>
-        <address_number>100</address_number>
+        <date_of_birth>1957-08-16</date_of_birth>
+        <entered_office>2018-01-16</entered_office>
+        <term_end>2022-01-01</term_end>
+        <biography>Philip Dunton Murphy (born August 16, 1957) is an American financier, diplomat, and politician currently serving as the 56th Governor of New Jersey. Murphy, a Democrat, defeated then Lieutenant Governor Kim Guadagno in the 2017 gubernatorial election.</biography>
+        <phone>609-292-6000</phone>
+        <fax>609-292-3454</fax>
+        <latitude>40.220707</latitude>
+        <longitude>-74.763027</longitude>
+        <address_complete>Office of the Governor, Post Office Box 001, Trenton, NJ 08625</address_complete>
+        <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>State</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_street>of</address_street>
+        <address_sec_unit_type>Office</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Annapolis</address_city>
-        <address_state>MD</address_state>
-        <address_zipcode>21401</address_zipcode>
-        <address_type>Circle</address_type>
-        <website>http://governor.maryland.gov/</website>
-        <contact_page>http://governor.maryland.gov/mail/default.asp</contact_page>
-        <facebook_url>https://www.facebook.com/larryhoganmd</facebook_url>
-        <twitter_handle>LarryHogan</twitter_handle>
-        <twitter_url>https://twitter.com/LarryHogan</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/lawrence-hogan.jpg</photo_url>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.nj.gov/governor/</website>
+        <contact_page>http://www.nj.gov/governor/contact/</contact_page>
+        <facebook_url>https://www.facebook.com/PhilMurphyNJ</facebook_url>
+        <twitter_handle>philmurphynj</twitter_handle>
+        <twitter_url>https://twitter.com/philmurphynj</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/philip-murphy.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>New Mexico</state_name>
@@ -1306,49 +1306,49 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/andrew-cuomo.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>New Jersey</state_name>
-        <state_name_slug>new-jersey</state_name_slug>
-        <state_code>NJ</state_code>
-        <state_code_slug>nj</state_code_slug>
-        <votesmart>176221</votesmart>
+        <state_name>North Carolina</state_name>
+        <state_name_slug>north-carolina</state_name_slug>
+        <state_code>NC</state_code>
+        <state_code_slug>nc</state_code_slug>
+        <votesmart>5900</votesmart>
         <title>governor</title>
         <party>democrat</party>
-        <name>Philip Murphy</name>
-        <name_slug>philip-murphy</name_slug>
-        <first_name>Philip</first_name>
-        <middle_name>Dunton</middle_name>
-        <last_name>Murphy</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Phil</goes_by>
-        <pronunciation>FIL MUR-fee</pronunciation>
+        <name>Roy Cooper</name>
+        <name_slug>roy-cooper</name_slug>
+        <first_name>Roy</first_name>
+        <middle_name>Asberry</middle_name>
+        <last_name>Cooper</last_name>
+        <name_suffix>III</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>ROY KOO-per</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
+        <religion>presbyterian</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1957-08-16</date_of_birth>
-        <entered_office>2018-01-16</entered_office>
-        <term_end>2022-01-01</term_end>
-        <biography>Philip Dunton Murphy (born August 16, 1957) is an American financier, diplomat, and politician currently serving as the 56th Governor of New Jersey. Murphy, a Democrat, defeated then Lieutenant Governor Kim Guadagno in the 2017 gubernatorial election.</biography>
-        <phone>609-292-6000</phone>
-        <fax>609-292-3454</fax>
-        <latitude>40.220707</latitude>
-        <longitude>-74.763027</longitude>
-        <address_complete>Office of the Governor, Post Office Box 001, Trenton, NJ 08625</address_complete>
-        <address_number>null</address_number>
+        <date_of_birth>1957-06-13</date_of_birth>
+        <entered_office>2017-01-01</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Roy Asberry Cooper III (born June 13, 1957) is an American politician and attorney who is the 75th and current Governor of North Carolina, since January 2017. Prior to his governorship, Cooper had served as the Attorney General of North Carolina from 2001 to 2017 and was previously a member of the North Carolina State Senate.</biography>
+        <phone>919-814-2000</phone>
+        <fax>919-733-2120</fax>
+        <latitude>35.8093599</latitude>
+        <longitude>-78.7094088</longitude>
+        <address_complete>20301 Mail Service Center, Raleigh, NC 27699</address_complete>
+        <address_number>20301</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>of</address_street>
-        <address_sec_unit_type>Office</address_sec_unit_type>
+        <address_street>Mail Service</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.nj.gov/governor/</website>
-        <contact_page>http://www.nj.gov/governor/contact/</contact_page>
-        <facebook_url>https://www.facebook.com/PhilMurphyNJ</facebook_url>
-        <twitter_handle>philmurphynj</twitter_handle>
-        <twitter_url>https://twitter.com/philmurphynj</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/philip-murphy.jpg</photo_url>
+        <address_city>Raleigh</address_city>
+        <address_state>NC</address_state>
+        <address_zipcode>27699</address_zipcode>
+        <address_type>Center</address_type>
+        <website>https://governor.nc.gov/</website>
+        <contact_page>https://governor.nc.gov/contact-governor-cooper</contact_page>
+        <facebook_url>https://www.facebook.com/NCgovernor</facebook_url>
+        <twitter_handle>NC_Governor</twitter_handle>
+        <twitter_url>https://twitter.com/NC_Governor</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/roy-cooper.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>North Dakota</state_name>
@@ -1576,49 +1576,49 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/thomas-wolf.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Rhode Island</state_name>
-        <state_name_slug>rhode-island</state_name_slug>
-        <state_code>RI</state_code>
-        <state_code_slug>ri</state_code_slug>
-        <votesmart>128028</votesmart>
+        <state_name>Illinois</state_name>
+        <state_name_slug>illinois</state_name_slug>
+        <state_code>IL</state_code>
+        <state_code_slug>il</state_code_slug>
+        <votesmart>18341</votesmart>
         <title>governor</title>
         <party>democrat</party>
-        <name>Gina Raimondo</name>
-        <name_slug>gina-raimondo</name_slug>
-        <first_name>Gina</first_name>
-        <middle_name>Marie</middle_name>
-        <last_name>Raimondo</last_name>
+        <name>J.B. Pritzker</name>
+        <name_slug>jb-pritzker</name_slug>
+        <first_name>J.B.</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Pritzker</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>JEE-nuh RAY-mahn-doh</pronunciation>
-        <gender>female</gender>
+        <pronunciation>J B PRITS-ker</pronunciation>
+        <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1971-05-17</date_of_birth>
-        <entered_office>2015-01-06</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Gina Marie Raimondo (born May 17, 1971) is an American politician, businesswoman, venture capitalist, and the 75th and current Governor of the State of Rhode Island. Raimondo, a member of the Democratic Party, is the first woman to serve as Governor of Rhode Island. Prior to her election as governor, she served as the General Treasurer for the State of Rhode Island and was the second Rhode Island woman to serve as Treasurer.</biography>
-        <phone>401-222-2080</phone>
-        <fax>401-222-8096</fax>
-        <latitude>41.8310614</latitude>
-        <longitude>-71.4171496</longitude>
-        <address_complete>82 Smith Street, Providence, RI 02903</address_complete>
-        <address_number>82</address_number>
+        <date_of_birth>1965-01-19</date_of_birth>
+        <entered_office>2019-01-01</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>J.B. Pritzker is the Democratic Governor of Illinois. Pritzker was elected to the office on November 6, 2018.</biography>
+        <phone>217-782-6831</phone>
+        <fax>217-524-4049</fax>
+        <latitude>39.801149</latitude>
+        <longitude>-89.648686</longitude>
+        <address_complete>State Capitol, Springfield, IL 62706</address_complete>
+        <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Smith</address_street>
+        <address_street>State</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Providence</address_city>
-        <address_state>RI</address_state>
-        <address_zipcode>02903</address_zipcode>
-        <address_type>Street</address_type>
-        <website>http://www.gov.ri.gov/</website>
-        <contact_page>http://www.gov.ri.gov/contact/</contact_page>
-        <facebook_url>https://www.facebook.com/GinaMRaimondo</facebook_url>
-        <twitter_handle>ginaraimondo</twitter_handle>
-        <twitter_url>https://twitter.com/ginaraimondo</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/gina-raimondo.jpg</photo_url>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.illinois.gov/gov/</website>
+        <contact_page>https://www2.illinois.gov/gov/contactus/Pages/default.aspx</contact_page>
+        <facebook_url>https://www.facebook.com/jbpritzker</facebook_url>
+        <twitter_handle>jbpritzker</twitter_handle>
+        <twitter_url>https://twitter.com/jbpritzker</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/jb-pritzker.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>South Carolina</state_name>
@@ -2071,139 +2071,139 @@
         <photo_url>https://repimages.5calls.org/us-governors/512x512/tony-evers.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>North Carolina</state_name>
-        <state_name_slug>north-carolina</state_name_slug>
-        <state_code>NC</state_code>
-        <state_code_slug>nc</state_code_slug>
-        <votesmart>5900</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Roy Cooper</name>
-        <name_slug>roy-cooper</name_slug>
-        <first_name>Roy</first_name>
-        <middle_name>Asberry</middle_name>
-        <last_name>Cooper</last_name>
-        <name_suffix>III</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>ROY KOO-per</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>presbyterian</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1957-06-13</date_of_birth>
-        <entered_office>2017-01-01</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Roy Asberry Cooper III (born June 13, 1957) is an American politician and attorney who is the 75th and current Governor of North Carolina, since January 2017. Prior to his governorship, Cooper had served as the Attorney General of North Carolina from 2001 to 2017 and was previously a member of the North Carolina State Senate.</biography>
-        <phone>919-814-2000</phone>
-        <fax>919-733-2120</fax>
-        <latitude>35.8093599</latitude>
-        <longitude>-78.7094088</longitude>
-        <address_complete>20301 Mail Service Center, Raleigh, NC 27699</address_complete>
-        <address_number>20301</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Mail Service</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Raleigh</address_city>
-        <address_state>NC</address_state>
-        <address_zipcode>27699</address_zipcode>
-        <address_type>Center</address_type>
-        <website>https://governor.nc.gov/</website>
-        <contact_page>https://governor.nc.gov/contact-governor-cooper</contact_page>
-        <facebook_url>https://www.facebook.com/NCgovernor</facebook_url>
-        <twitter_handle>NC_Governor</twitter_handle>
-        <twitter_url>https://twitter.com/NC_Governor</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/roy-cooper.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Maine</state_name>
-        <state_name_slug>maine</state_name_slug>
-        <state_code>ME</state_code>
-        <state_code_slug>me</state_code_slug>
-        <votesmart>36856</votesmart>
+        <state_name>Indiana</state_name>
+        <state_name_slug>indiana</state_name_slug>
+        <state_code>IN</state_code>
+        <state_code_slug>in</state_code_slug>
+        <votesmart>34349</votesmart>
         <title>governor</title>
         <party>republican</party>
-        <name>Janet Mills</name>
-        <name_slug>janet-mills</name_slug>
-        <first_name>Janet</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Mills</last_name>
+        <name>Eric Holcomb</name>
+        <name_slug>eric-holcomb</name_slug>
+        <first_name>Eric</first_name>
+        <middle_name>Joseph</middle_name>
+        <last_name>Holcomb</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>JA-net MILZ</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1947-12-30</date_of_birth>
-        <entered_office>2019-01-01</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Janet T. Mills is the Democratic Governor of Maine. Mills was elected to the office on November 6, 2018. Mills served as Maine attorney general from 2009 to 2010 and again assumed office in 2012.</biography>
-        <phone>207-287-3531</phone>
-        <fax>207-287-1034</fax>
-        <latitude>44.3069799</latitude>
-        <longitude>-69.784334</longitude>
-        <address_complete>1 State House Station, Augusta, ME 04333</address_complete>
-        <address_number>1</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>State House</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Augusta</address_city>
-        <address_state>ME</address_state>
-        <address_zipcode>04333</address_zipcode>
-        <address_type>Station</address_type>
-        <website>https://www.maine.gov/governor/</website>
-        <contact_page>https://www.maine.gov/governor/mills/contact</contact_page>
-        <facebook_url>https://www.facebook.com/millsforgovernor/</facebook_url>
-        <twitter_handle>JanetMillsforME</twitter_handle>
-        <twitter_url>https://twitter.com/JanetMillsforME</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/janet-mills.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Massachusetts</state_name>
-        <state_name_slug>massachusetts</state_name_slug>
-        <state_code>MA</state_code>
-        <state_code_slug>ma</state_code_slug>
-        <votesmart>124824</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Charles Baker</name>
-        <name_slug>charles-baker</name_slug>
-        <first_name>Charles</first_name>
-        <middle_name>Duane</middle_name>
-        <last_name>Baker</last_name>
-        <name_suffix>Jr.</name_suffix>
-        <goes_by>Charlie</goes_by>
-        <pronunciation>CHARR-lee BAY-ker</pronunciation>
+        <pronunciation>E-rik HAWL-koam</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>protestant</religion>
+        <religion>church-of-god</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1956-11-13</date_of_birth>
-        <entered_office>2015-01-08</entered_office>
+        <date_of_birth>1968-05-02</date_of_birth>
+        <entered_office>2017-01-09</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>Charles Duane "Charlie" Baker Jr. (born November 13, 1956), is an American businessman and the 72nd and current Governor of Massachusetts, having been sworn into office on January 8, 2015. He was a cabinet official under two Massachusetts governors, spent ten years as CEO of Harvard Pilgrim Health Care and was also the Republican nominee for governor of Massachusetts in an unsuccessful 2010 bid.</biography>
-        <phone>617-725-4005</phone>
-        <fax>617-727-9725</fax>
-        <latitude>42.3587723</latitude>
-        <longitude>-71.0660006</longitude>
-        <address_complete>Massachusetts State House, Office of the Governor, Room 280 Boston, MA 02133</address_complete>
+        <biography>Eric Joseph Holcomb (born May 2, 1968) is an American politician who serves as the 51st and current Governor of Indiana since January 2017. Prior to his election to the governorship, he was also the 51st Lieutenant Governor of Indiana under Governor Mike Pence, now the 48th and current Vice President of the United States.</biography>
+        <phone>317-232-4567</phone>
+        <fax>317-232-3443</fax>
+        <latitude>39.7984385</latitude>
+        <longitude>-89.6573079</longitude>
+        <address_complete>State House, Room 206 Indianapolis, IN 46204</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Massachusetts</address_street>
+        <address_street>State</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>null</address_city>
         <address_state>null</address_state>
         <address_zipcode>null</address_zipcode>
         <address_type>null</address_type>
-        <website>http://www.mass.gov/governor/</website>
-        <contact_page>http://www.mass.gov/governor/constituent-services/contact-governor-office/</contact_page>
-        <facebook_url>https://www.facebook.com/CharlieBakerMA</facebook_url>
-        <twitter_handle>massgovernor</twitter_handle>
-        <twitter_url>https://twitter.com/massgovernor</twitter_url>
-        <photo_url>https://repimages.5calls.org/us-governors/512x512/charles-baker.jpg</photo_url>
+        <website>http://www.in.gov/gov/</website>
+        <contact_page>http://www.in.gov/core/help.html</contact_page>
+        <facebook_url>https://www.facebook.com/GovHolcomb</facebook_url>
+        <twitter_handle>GovHolcomb</twitter_handle>
+        <twitter_url>https://twitter.com/GovHolcomb</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/eric-holcomb.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Rhode Island</state_name>
+        <state_name_slug>rhode-island</state_name_slug>
+        <state_code>RI</state_code>
+        <state_code_slug>ri</state_code_slug>
+        <votesmart>128028</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Gina Raimondo</name>
+        <name_slug>gina-raimondo</name_slug>
+        <first_name>Gina</first_name>
+        <middle_name>Marie</middle_name>
+        <last_name>Raimondo</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JEE-nuh RAY-mahn-doh</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1971-05-17</date_of_birth>
+        <entered_office>2015-01-06</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Gina Marie Raimondo (born May 17, 1971) is an American politician, businesswoman, venture capitalist, and the 75th and current Governor of the State of Rhode Island. Raimondo, a member of the Democratic Party, is the first woman to serve as Governor of Rhode Island. Prior to her election as governor, she served as the General Treasurer for the State of Rhode Island and was the second Rhode Island woman to serve as Treasurer.</biography>
+        <phone>401-222-2080</phone>
+        <fax>401-222-8096</fax>
+        <latitude>41.8310614</latitude>
+        <longitude>-71.4171496</longitude>
+        <address_complete>82 Smith Street, Providence, RI 02903</address_complete>
+        <address_number>82</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Smith</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Providence</address_city>
+        <address_state>RI</address_state>
+        <address_zipcode>02903</address_zipcode>
+        <address_type>Street</address_type>
+        <website>http://www.gov.ri.gov/</website>
+        <contact_page>http://www.gov.ri.gov/contact/</contact_page>
+        <facebook_url>https://www.facebook.com/GinaMRaimondo</facebook_url>
+        <twitter_handle>ginaraimondo</twitter_handle>
+        <twitter_url>https://twitter.com/ginaraimondo</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/gina-raimondo.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Missouri</state_name>
+        <state_name_slug>missouri</state_name_slug>
+        <state_code>MO</state_code>
+        <state_code_slug>mo</state_code_slug>
+        <votesmart>39119</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Michael Parson</name>
+        <name_slug>michael-parson</name_slug>
+        <first_name>Michael</first_name>
+        <middle_name>L.</middle_name>
+        <last_name>Parson</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Mike</goes_by>
+        <pronunciation>MIKE PAR-son</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1955-09-17</date_of_birth>
+        <entered_office>2018-06-01</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Michael L. Parson (born September 17, 1955) is an American politician and former law enforcement officer currently serving as the 57th Governor of Missouri, having taken office on June 1, 2018 after the resignation of Eric Greitens. Parson previously served as the 47th Lieutenant Governor of Missouri.</biography>
+        <phone>573-751-3222</phone>
+        <fax>573-526-3291</fax>
+        <latitude>38.5774764</latitude>
+        <longitude>-92.1758644</longitude>
+        <address_complete>201 West Capitol Avenue, Room 218, Post Office Box 720, Jefferson City, MO 65101</address_complete>
+        <address_number>201</address_number>
+        <address_prefix>West</address_prefix>
+        <address_street>Capitol</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>218</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>Avenue</address_type>
+        <website>https://governor.mo.gov/</website>
+        <contact_page>https://governor.mo.gov/get-involved/contact-the-governors-office</contact_page>
+        <facebook_url>https://www.facebook.com/TeamMikeParson/</facebook_url>
+        <twitter_handle>mikeparson</twitter_handle>
+        <twitter_url>https://twitter.com/mikeparson</twitter_url>
+        <photo_url>https://repimages.5calls.org/us-governors/512x512/michael-parson.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Wyoming</state_name>
